@@ -4,8 +4,8 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skinobre&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <a href="https://www.linkedin.com/in/weverton-gois-nobre-094387219/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=skinobre&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinobre&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
