@@ -1,5 +1,5 @@
 ### Olá, eu sou o Weverton Nobre 👋
-###### ✨Atualmente sou bolsista no curso certified tech developer da Digital House Brasil✨
+###### ✨Atualmente faço o curso de Redes de computadores✨
 
 ##
 
